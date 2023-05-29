@@ -4,7 +4,20 @@ Header&&&
 About me
 
 
-Languages and Tools
+### Languages and Tools
+![Postman](https://img.shields.io/badge/<LABEL>-<MESSAGE>-<COLOR>)
+Swagger
+apiDoc
+Charles
+DevTools
+SQL
+PostgreSQL
+Android Studio
+GitHub--
+Jira
+YouTrack
+Figma
+
 
 
 Contact Me ///
