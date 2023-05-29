@@ -19,5 +19,12 @@
 ![Figma](https://img.shields.io/badge/Figma-black?style=flat-square&logo=Figma&logoColor=blueviolet)
 
 
+### My CV
 
-Contact Me
+### Testing Documentation
+
+### Contact Me
+![Slack](https://img.shields.io/badge/Slack-black?style=flat-square&logo=Slack)
+![Telegram](https://img.shields.io/badge/Telegram-black?style=flat-square&logo=Telegram)
+![WhatsApp](https://img.shields.io/badge/WhatsApp-black?style=flat-square&logo=WhatsApp)
+![Discord](https://img.shields.io/badge/Discord-black?style=flat-square&logo=Discord)
