@@ -26,8 +26,6 @@
 - [SQL Queries]
 - [Postman Collections]
 
-1
-
 
 ### Contact Me
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-black?style=flat-square&logo=LinkedIn)
