@@ -27,6 +27,6 @@
 - [Postman Collections](https://github.com/KristinaBragina/Postman-Collections)
 
 
-### Contact Me
+### Contact me
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-black?style=flat-square&logo=LinkedIn)
 [![Telegram](https://img.shields.io/badge/Telegram-black?style=flat-square&logo=Telegram)](https://t.me/winret)
