@@ -20,11 +20,11 @@
 
 
 ### Testing Documentation
-- [Checklists]
-- [Test-Cases]
-- [Bug-Reports]
-- [SQL Queries]
-- [Postman Collections]
+- [Checklists](https://github.com/KristinaBragina/Checklists)
+- [Test Cases](https://github.com/KristinaBragina/Test-Cases)
+- [Bug Reports](https://github.com/KristinaBragina/Bug-Reports)
+- [SQL Queries](https://github.com/KristinaBragina/SQL-Queries)
+- [Postman Collections](https://github.com/KristinaBragina/Postman-Collections)
 
 
 ### Contact Me
