@@ -26,10 +26,7 @@
 - [SQL Queries]
 - [Postman Collections]
 
-### My CV
 
 ### Contact Me
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-black?style=flat-square&logo=LinkedIn)
-[![Slack](https://img.shields.io/badge/Slack-black?style=flat-square&logo=Slack)](https://w1652702793-5ki106144.slack.com/team/U03FL3QHWLA)
 [![Telegram](https://img.shields.io/badge/Telegram-black?style=flat-square&logo=Telegram)](https://t.me/winret)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-black?style=flat-square&logo=WhatsApp)](https://wa.me/qr/TUK4ZUCYYWLHF1)
