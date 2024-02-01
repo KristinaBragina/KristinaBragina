@@ -1,7 +1,6 @@
 ### About me
-Начинающий тестировщик с бэкграундом в корректуре и литературном редактировании. Мечтаю сменить поиск ошибок в текстах на качественную проверку программных продуктов и совершенствоваться в этом направлении, улучшать пользовательский опыт.
-
-Хорошо освоила методологию проверки функциональности мобильных и веб-приложений, с особым удовольствием тестирую API, пишу базовые SQL-запросы.
+Тестировщик ПО и сетевого оборудования с бэкграундом в корректуре и литературном редактировании.
+Помогатор в разработке точек доступа Wi-Fi.
 
 
 ### Tools and Languages
@@ -25,8 +24,3 @@
 - [Bug Reports](https://github.com/KristinaBragina/Bug-Reports)
 - [SQL Queries](https://github.com/KristinaBragina/SQL-Queries)
 - [Postman Collections](https://github.com/KristinaBragina/Postman-Collections)
-
-
-### Contact me
-![LinkedIn](https://img.shields.io/badge/LinkedIn-black?style=flat-square&logo=LinkedIn)
-[![Telegram](https://img.shields.io/badge/Telegram-black?style=flat-square&logo=Telegram)](https://t.me/winret)
