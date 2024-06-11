@@ -16,10 +16,3 @@
 ![YouTrack](https://img.shields.io/badge/YouTrack-black?style=flat-square&logo=YouTrack)
 ![Figma](https://img.shields.io/badge/Figma-black?style=flat-square&logo=Figma&logoColor=blueviolet)
 
-
-### Testing Documentation
-- [Checklists](https://github.com/KristinaBragina/Checklists)
-- [Test Cases](https://github.com/KristinaBragina/Test-Cases)
-- [Bug Reports](https://github.com/KristinaBragina/Bug-Reports)
-- [SQL Queries](https://github.com/KristinaBragina/SQL-Queries)
-- [Postman Collections](https://github.com/KristinaBragina/Postman-Collections)
