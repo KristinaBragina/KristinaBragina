@@ -16,3 +16,8 @@
 ![YouTrack](https://img.shields.io/badge/YouTrack-black?style=flat-square&logo=YouTrack)
 ![Figma](https://img.shields.io/badge/Figma-black?style=flat-square&logo=Figma&logoColor=blueviolet)
 
+
+### ⚙️ GitHub статистика:
+</div>
+  <img align="left" src="http://github-readme-streak-stats.herokuapp.com?user=KristinaBragina&theme=dark&background=000000" alt="webDev's Github stats" />
+
